@@ -1,0 +1,6 @@
+{
+  "name": "Supermarket Helper",
+  "description": "An implementation of the travelling salesman problem being solved by a genetiv algorithm.",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
